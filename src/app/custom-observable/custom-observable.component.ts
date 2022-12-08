@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable, observable } from 'rxjs';
+import { Observable} from  'rxjs';
 
 @Component({
   selector: 'app-custom-observable',
